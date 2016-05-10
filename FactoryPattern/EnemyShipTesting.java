@@ -1,5 +1,3 @@
-package Sessional.FactoryPattern;
-
 import java.util.Scanner;
 
 /**
